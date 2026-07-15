@@ -8,6 +8,8 @@
   <a href="https://www.npmjs.com/package/@earendil-works/pi-coding-agent"><img alt="npm" src="https://img.shields.io/npm/v/@earendil-works/pi-coding-agent?style=flat-square" /></a>
 </p>
 
+> **ACP variant fork.** This repository tracks [earendil-works/pi](https://github.com/earendil-works/pi) and adds native [Agent Client Protocol](https://agentclientprotocol.com/) support via `pi --mode acp`. Proposal: [Discussion #4444](https://github.com/earendil-works/pi/discussions/4444#discussioncomment-17580096). Plan: [packages/coding-agent/docs/acp-upstream-plan.md](packages/coding-agent/docs/acp-upstream-plan.md). Active development on the [`acp`](https://github.com/JacobNWolf/pi/tree/acp) branch.
+
 > New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 # Pi Agent Harness
